@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-/system/bin/app_process -Djava.class.path="$(pwd)/MazeAdventureGame.dex" "$(pwd)" com.furieau.apps.MazeAdventureGame.MazeAdventureGame
+/system/bin/app_process -Djava.class.path="$(pwd)/MazeAdventureGame.dex" "$(pwd)" com.furieau.apps.MazeAdventure.MazeAdventureGame

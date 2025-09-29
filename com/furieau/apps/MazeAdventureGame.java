@@ -1,4 +1,4 @@
-package com.furieau.apps.MazeAdventureGame;
+package com.furieau.apps.MazeAdventure;
 
 import java.util.Random;
 import java.util.Scanner;
